@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main container{
+     padding: 16 px;
+     width: 100%;
+}
+
+
+h2 {
+    margin: 16 0 16 0;
+}
+
+.the-second-container{
+     width: 50%;
+}
+
+img{
+   width: 30%;
+   text-shadow: 15 5 15 5 black;
+}
+
+p{
+    margin: 15px
+    
+}
+
